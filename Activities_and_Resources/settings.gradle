@@ -1,0 +1,2 @@
+rootProject.name='Activities_and_Resources'
+include ':app'
